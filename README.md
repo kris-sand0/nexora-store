@@ -129,6 +129,8 @@ A NEXORA Store é um projeto demonstrativo de portfólio. Os produtos, preços e
 
 O checkout é simulado e não processa pagamentos reais.
 
+**Aplicação online:** [NEXORA Store](https://nexora-store-self.vercel.app/)
+
 ---
 
 <a id="nexora-store-english"></a>
@@ -261,6 +263,8 @@ src/
 NEXORA Store is a portfolio demonstration project. All products, prices, and displayed data are fictional.
 
 The checkout is simulated and does not process real payments.
+
+**Live website:** [NEXORA Store](https://nexora-store-self.vercel.app/)
 
 ---
 
